@@ -3,8 +3,8 @@ h1 {
     font: x-large Verdana, Arial, Helvetica, sans-serif;
     text-align: center;
     height: 40px;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: lightgrey;
     }
 /* Styling for the overall table */
 table {
