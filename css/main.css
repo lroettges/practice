@@ -4,7 +4,7 @@ h1 {
     text-align: center;
     height: 40px;
     background-color: black;
-    color: lightgrey;
+    color: #CCC;
     }
 /* Styling for the overall table */
 table {
@@ -17,7 +17,7 @@ table {
 th {
     padding: 0 0.5em;
     text-align: center;
-    background-color:lightblue;
+    background-color:#ff5544;
     color:white;
     }
 /* Styling for the individual cells (days) */
