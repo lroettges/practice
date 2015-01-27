@@ -3,8 +3,8 @@ h1 {
     font: x-large Verdana, Arial, Helvetica, sans-serif;
     text-align: center;
     height: 40px;
-    background-color: black;
-    color: #CCC;
+    background-color: #787878;
+    color: #2ff;
     }
 /* Styling for the overall table */
 table {
@@ -17,7 +17,7 @@ table {
 th {
     padding: 0 0.5em;
     text-align: center;
-    background-color:#ff5544;
+    background-color:#22ffff;
     color:white;
     }
 /* Styling for the individual cells (days) */
@@ -38,10 +38,15 @@ td  {
     }
 /* Class for individual days (coming in future release) */
 .sun {
-     color:blue;
+     color:transparent blue;
      }
 /* Hide the month element (coming in future release) */
 th.month {
     visibility: hidden;
     display:none;
     }
+/*cell color*/
+tr {
+    background-color:#ffe4e1;
+    opacity:.5;
+}
